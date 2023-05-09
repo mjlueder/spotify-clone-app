@@ -2,6 +2,4 @@
 
 ## React, Tailwind, Redux
 
-![Based on a JavaScript Mastery tutorial](https://www.youtube.com/watch?v=I1cpb0tYV74&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=3)
-
-
+[Based on a JavaScript Mastery tutorial](https://www.youtube.com/watch?v=I1cpb0tYV74&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=3)
